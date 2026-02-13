@@ -2,7 +2,7 @@
   "name": "order-service",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
+ "scripts": {
   "test": "echo \"No tests\" && exit 0"
 },
   "keywords": [],
